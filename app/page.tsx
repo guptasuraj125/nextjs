@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="h-screen w-full relative">
       {/* Background Video */}
-      <BackgroundVideo />
+     
 
       <div className="flex flex-col h-full gap-20 relative z-10"> 
         {/* Added relative z-10 to ensure the content is on top of the video */}

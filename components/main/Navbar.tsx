@@ -23,7 +23,7 @@ const Navbar = () => {
                         style={{ borderRadius: '50%' }}
                     />
 
-                    <span className='font-bold ml-{10px} hidden md:block text-gray-300'>  WebChain Dev </span>
+                    <span className='font-bold ml-{10px} hidden md:block text-gray-300'> Gupta Suraj </span>
                 </a>
 
                 <div className='w-[500px] h-full flex flex-row items-center justify-between md:mr-20'>
